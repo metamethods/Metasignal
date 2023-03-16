@@ -1,0 +1,14 @@
+{
+  "name": "metasignal",
+  "tree": {
+    "$className": "DataModel",
+
+    "ReplicatedStorage": {
+      "Metasignal": {
+        "$path": "src"
+      }
+    },
+
+    "Workspace": {}
+  }
+}

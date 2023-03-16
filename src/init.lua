@@ -1,0 +1,3 @@
+local Metasignal = {}
+
+return Metasignal
